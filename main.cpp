@@ -1,7 +1,3 @@
-//
-// Created by Aaryan Javalekar's Laptop Lenovo Legion 5 on 18-06-2024.
-//
-// This main function only shows the implementation of IDA* Solver using Bitboard representation and the rest of the part is commented out
 
 #include <bits/stdc++.h>
 // #include "Model/RubiksCube3dArray.cpp"
@@ -57,6 +53,6 @@ int main() {
     // dbMaker.bfsAndStore();
 
 
-    cout << "yoyo"; //tells us everything went right
+    cout << "done"; 
     return 0;
 }
